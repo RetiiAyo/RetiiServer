@@ -1,0 +1,19 @@
+{
+  "name": "retiiserver",
+  "version": "1.0.0",
+  "description": "RetiiServer is a rewrite of LewinServer V2, which is a fortnite backend written in Node.js with account system and xmpp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RetiiAyo/RetiiServer.git"
+  },
+  "author": "Retii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RetiiAyo/RetiiServer/issues"
+  },
+  "homepage": "https://github.com/RetiiAyo/RetiiServer#readme"
+}
